@@ -45,7 +45,7 @@ public class Main {
                     break;
             }
 
-                monthlyWage = monthlyWage + dailyWage;
+            monthlyWage = monthlyWage + dailyWage;
         }
         System.out.println("\n");
         if(totalHours >= 100 || counter >= 20) {
